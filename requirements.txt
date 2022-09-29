@@ -1,0 +1,5 @@
+streamlit==1.11.1
+streamlit-wizard>=0.0.3
+streamlit-drawable-canvas
+leafmap
+streamlit-folium
